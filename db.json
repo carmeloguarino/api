@@ -1,5 +1,5 @@
 {
-"teachers": [
+    "teachers": [
         {
             "id": 1,
             "name": "Guglielma Milani",
@@ -108,6 +108,203 @@
                 "type": "readonly"
             }
         }
+    ],
+  
+ "contract": [
+        {
+            "id": "1",
+            "name": "Guglielma",
+            "surname": "Milani",
+            "cf": "1234567890000000",
+            "birthPlace": "Caserta",
+            "birthday": "12/04/1978",
+            "city": "Milano",
+            "address": "Giovanni Pacini 132",
+            "cap": 20131,
+            "roles": "lecturer",
+            "contractualTypes": "Lecturer 1 Fascia CoCoCo",
+            "activities": {
+                "minimumNumberHours": "123",
+                "minimumActivityEuro": "12312",
+                "activityNumbers": "213123",
+                "guaranteedMinimum": "12312312231",
+                "beginDuration": "1970-06-24",
+                "endDuration": "1988-03-12"
+            },
+            "documents": {
+                "documentOptions": "compile",
+                "teaching": {
+                    "days": "123",
+                    "amount": "232321"
+                },
+                "research": {
+                    "days": "12",
+                    "amount": "21312312"
+                },
+                "service": {
+                    "days": "121",
+                    "amount": "22222"
+                },
+                "clientDevelopment": {
+                    "days": "1",
+                    "amount": "23"
+                },
+                "otherActivities": {
+                    "days": "0",
+                    "amount": "0"
+                }
+            },
+            "knowledgeGroup": {
+                "knowledgeGroupLabel": "ReadLeadership, Organization"
+            },
+            "clauses": {
+                "elements": [
+                    {
+                        "id": "1",
+                        "title": "Clausola",
+                        "contents": [
+                            {
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                "indentationLevel": 0,
+                                "indentationSymbol": "1.1"
+                            },
+                            {
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                "indentationLevel": 0,
+                                "indentationSymbol": "1.2"
+                            },
+                            {
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                "indentationLevel": 0,
+                                "indentationSymbol": "1.3"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "2",
+                        "title": "Clausola",
+                        "contents": [
+                            {
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                "indentationLevel": 0,
+                                "indentationSymbol": "2.1"
+                            },
+                            {
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                "indentationLevel": 0,
+                                "indentationSymbol": "2.2"
+                            },
+                            {
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                "indentationLevel": 0,
+                                "indentationSymbol": "2.3"
+                            },
+                            {
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                "indentationLevel": 0,
+                                "indentationSymbol": "2.4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },{
+            "id": "3",
+            "name": "Enrico",
+            "surname": "Pinto",
+            "cf": "1234567890000000",
+            "birthPlace": "Napoli",
+            "birthday": "27/12/1983",
+            "city": "Vicenza",
+            "address": "Giovanni Pacini 132",
+            "cap": 20131,
+            "roles": "lecturer",
+            "contractualTypes": "Lecturer 1 Fascia CoCoCo",
+            "activities": {
+                "minimumNumberHours": "123",
+                "minimumActivityEuro": "12312",
+                "activityNumbers": "213123",
+                "guaranteedMinimum": "12312312231",
+                "beginDuration": "1970-06-24",
+                "endDuration": "1988-03-12"
+            },
+            "documents": {
+                "documentOptions": "compile",
+                "teaching": {
+                    "days": "123",
+                    "amount": "232321"
+                },
+                "research": {
+                    "days": "12",
+                    "amount": "21312312"
+                },
+                "service": {
+                    "days": "121",
+                    "amount": "22222"
+                },
+                "clientDevelopment": {
+                    "days": "1",
+                    "amount": "23"
+                },
+                "otherActivities": {
+                    "days": "0",
+                    "amount": "0"
+                }
+            },
+            "knowledgeGroup": {
+                "knowledgeGroupLabel": "ReadLeadership, Organization"
+            },
+            "clauses": {
+                "elements": [
+                    {
+                        "id": "1",
+                        "title": "Clausola",
+                        "contents": [
+                            {
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                "indentationLevel": 0,
+                                "indentationSymbol": "1.1"
+                            },
+                            {
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                "indentationLevel": 0,
+                                "indentationSymbol": "1.2"
+                            },
+                            {
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                "indentationLevel": 0,
+                                "indentationSymbol": "1.3"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "2",
+                        "title": "Clausola",
+                        "contents": [
+                            {
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                "indentationLevel": 0,
+                                "indentationSymbol": "2.1"
+                            },
+                            {
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                "indentationLevel": 0,
+                                "indentationSymbol": "2.2"
+                            },
+                            {
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                "indentationLevel": 0,
+                                "indentationSymbol": "2.3"
+                            },
+                            {
+                                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                "indentationLevel": 0,
+                                "indentationSymbol": "2.4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
     ]
-
 }
